@@ -48,11 +48,9 @@ We all do travelling at some point in our life. This application helps you to ma
 ```
 
 ### Screenshots
+![Screenshot from 2020-05-18 23-36-15](https://user-images.githubusercontent.com/40148448/82245666-069c3780-9961-11ea-92f8-56834a492471.png)
 
 ![Screenshot from 2020-05-18 23-36-23](https://user-images.githubusercontent.com/40148448/82245463-9ab9cf00-9960-11ea-86bd-fd26eb653726.png)
-
-![Screenshot from 2020-05-18 23-36-44](https://user-images.githubusercontent.com/40148448/82245495-a73e2780-9960-11ea-8185-6c45459cb5a8.png)
-
 
 ![Screenshot from 2020-05-18 23-36-47](https://user-images.githubusercontent.com/40148448/82245520-b3c28000-9960-11ea-8819-f4511ce12eaf.png)
 
