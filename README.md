@@ -47,7 +47,7 @@ We all do travelling at some point in our life. This application helps you to ma
     npm start
 ```
 
-###Screenshots
+### Screenshots
 
 ![Screenshot from 2020-05-18 23-36-23](https://user-images.githubusercontent.com/40148448/82245463-9ab9cf00-9960-11ea-86bd-fd26eb653726.png)
 
